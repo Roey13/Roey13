@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my first opportunity to **work in web development.**
 
-- 📫 How to reach me at **brdroey@gmail.com**
+- 📫 You can reach me at **brdroey@gmail.com**
 
 - 📄 Know about my experiences in my resume [here.](https://drive.google.com/file/d/1YnhJWCptzk59gLLesrcmgHSJzP0O7vvQ/view)
 
