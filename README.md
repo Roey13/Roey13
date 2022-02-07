@@ -5,6 +5,8 @@
 
 - 📫 You can reach me at **brdroey@gmail.com**
 
+- 👨‍💻 My projects are available at [my portfolio.](https://roey-barda.herokuapp.com/)
+
 - 📄 Know about my experiences in my resume [here.](https://drive.google.com/file/d/1YnhJWCptzk59gLLesrcmgHSJzP0O7vvQ/view)
 
 - ⚡ Fun fact **If it was possible I could have a master's degree in the Marvel Cinematic Universe.**
