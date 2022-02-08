@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **brdroey@gmail.com**
 
-- 👨‍💻 My projects are available at [my portfolio.](https://roey-barda.herokuapp.com/)
+- 👨‍💻 My projects are available at [my portfolio.](https://roey-barda.netlify.app/)
 
 - 📄 Know about my experiences in my resume [here.](https://drive.google.com/file/d/1YnhJWCptzk59gLLesrcmgHSJzP0O7vvQ/view)
 
